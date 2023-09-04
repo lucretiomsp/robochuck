@@ -25,8 +25,7 @@ Se ti interessa ulteriormente il mondo di ChucK, ecco alcune risorse aggiuntive:
 
 - :chuck: **Per Approfondire:** Se desideri approfondire la conoscenza di ChucK, puoi leggere l'articolo CMJ (Computer Music Journal) [Articolo CMJ](https://ccrma.stanford.edu/~ge/publish/files/2015-cmj-chuck.pdf).
 
-Questi sono ulteriori materiali che potresti trovare utili per il tuo percorso con ChucK.
-You can copy and paste this Markdown code into your workshop materials or document.
+
 
 
 
