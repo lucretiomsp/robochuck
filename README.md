@@ -15,15 +15,15 @@ ChucK è un linguaggio di programmazione concorrente e fortemente sincronizzato 
 - Creeremo sintetizzatori ed effetti utilizzando l'input HiD (mouse e tastiera) e controller MIDI.
 - Comporremo pattern e sequenze focalizzate sulla performance dal vivo.
 
-### Il workshop è aperto ad appassionat* musicist*, programmator* da 9 a 99 anni. Non sono richieste specifiche conoscenze di informatica o teoria musicale. Per seguire il corso è preferibile (ma non necessario) portare un computer con Google Chrome installato. 
+#### Il workshop è aperto ad appassionat* musicist*, programmator* da 9 a 99 anni. Non sono richieste specifiche conoscenze di informatica o teoria musicale. Per seguire il corso è preferibile (ma non necessario) portare un computer con Google Chrome installato. 
 
-Se ti interessa ulteriormente il mondo di ChucK, ecco alcune risorse aggiuntive:
+##### Se ti interessa ulteriormente il mondo di ChucK, ecco alcune risorse aggiuntive:
 
-- :chuck: **Unisciti alla Comunità:** Partecipa alla comunità di ChucK Discord [Comunità ChucK](https://chuck.stanford.edu/community/).
+- **Unisciti alla Community :** Partecipa alla comunità di ChucK Discord [ChucK Community](https://chuck.stanford.edu/community/).
 
-- :chuck: **Introduzione a "ChucK" in Formato Fumetto:** Dai un'occhiata a questa introduzione in formato fumetto a "ChucK" estratta da Artful Design [Fumetto ChucK](https://artful.design/stuff/samples/chuck.pdf).
+- **Introduzione a "ChucK" in Formato Fumetto:** Dai un'occhiata a questa introduzione in formato fumetto a "ChucK" estratta da Artful Design [Fumetto ChucK](https://artful.design/stuff/samples/chuck.pdf).
 
-- :chuck: **Per Approfondire:** Se desideri approfondire la conoscenza di ChucK, puoi leggere l'articolo CMJ (Computer Music Journal) [Articolo CMJ](https://ccrma.stanford.edu/~ge/publish/files/2015-cmj-chuck.pdf).
+- **Per Approfondire:** Se desideri approfondire la conoscenza di ChucK, puoi leggere l'articolo CMJ (Computer Music Journal) [Articolo CMJ](https://ccrma.stanford.edu/~ge/publish/files/2015-cmj-chuck.pdf).
 
 
 
