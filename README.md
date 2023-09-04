@@ -9,13 +9,13 @@ ChucK è un linguaggio di programmazione concorrente e fortemente sincronizzato 
 - Analizzatori di segnale.
 - Strumenti per costruire sistemi musicali interattivi di intelligenza artificiale (ChAI).
 
-Durante il workshop:
+### Durante il workshop:
 - Impareremo la sintassi e la semantica di ChucK.
 - Conosceremo gli ambienti per ChucK, utilizzando principalmente la versione online.
 - Creeremo sintetizzatori ed effetti utilizzando l'input HiD (mouse e tastiera) e controller MIDI.
 - Comporremo pattern e sequenze focalizzate sulla performance dal vivo.
 
-Il workshop è aperto ad appassionat* musicist*, programmator* da 9 a 99 anni. Non sono richieste specifiche conoscenze di informatica o teoria musicale. Per seguire il corso è preferibile (ma non necessario) portare un computer con Google Chrome installato. 
+### Il workshop è aperto ad appassionat* musicist*, programmator* da 9 a 99 anni. Non sono richieste specifiche conoscenze di informatica o teoria musicale. Per seguire il corso è preferibile (ma non necessario) portare un computer con Google Chrome installato. 
 
 Se ti interessa ulteriormente il mondo di ChucK, ecco alcune risorse aggiuntive:
 
