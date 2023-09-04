@@ -19,11 +19,11 @@ ChucK è un linguaggio di programmazione concorrente e fortemente sincronizzato 
 
 ##### Se ti interessa ulteriormente il mondo di ChucK, ecco alcune risorse aggiuntive:
 
-######- **Unisciti alla Community :** Partecipa alla comunità di ChucK Discord [ChucK Community](https://chuck.stanford.edu/community/).
+- **Unisciti alla Community :** Partecipa alla comunità di ChucK Discord [ChucK Community](https://chuck.stanford.edu/community/).
 
-######- **Introduzione a "ChucK" in Formato Fumetto:** Dai un'occhiata a questa introduzione in formato fumetto a "ChucK" estratta da Artful Design [Fumetto ChucK](https://artful.design/stuff/samples/chuck.pdf).
+- **Introduzione a "ChucK" in Formato Fumetto:** Dai un'occhiata a questa introduzione in formato fumetto a "ChucK" estratta da Artful Design [Fumetto ChucK](https://artful.design/stuff/samples/chuck.pdf).
 
-######- **Per Approfondire:** Se desideri approfondire la conoscenza di ChucK, puoi leggere l'articolo CMJ (Computer Music Journal) [Articolo CMJ](https://ccrma.stanford.edu/~ge/publish/files/2015-cmj-chuck.pdf).
+- **Per Approfondire:** Se desideri approfondire la conoscenza di ChucK, puoi leggere l'articolo CMJ (Computer Music Journal) [Articolo CMJ](https://ccrma.stanford.edu/~ge/publish/files/2015-cmj-chuck.pdf).
 
 
 
