@@ -31,6 +31,8 @@ ChucK può essere utilizzato direttamente dal web browser ([ChucK Online IDE](ht
 ## Consultare la guida online di ChucK
 Una esaustiva guida alla programmazione con ChucK puó essere trovata [qui](https://chuck.stanford.edu/doc/program/) e particorlarmente utile è la [documentazione della libreria](https://chuck.stanford.edu/doc/reference/) di ChucK.
 
+## Estendere ChucK
+ChucK fornisce differenti [alternative](https://chuck.cs.princeton.edu/extend/) per estendere le classi, i generatori e le funzionalità della sua libreria standard. 
 
 
 
