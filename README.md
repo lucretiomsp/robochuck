@@ -34,6 +34,11 @@ Una esaustiva guida alla programmazione con ChucK puó essere trovata [qui](http
 ## Estendere ChucK
 ChucK fornisce differenti [alternative](https://chuck.cs.princeton.edu/extend/) per estendere le classi, i generatori e le funzionalità della sua libreria standard. 
 
+## Glossario
+
+- *modulo*
+-- La funzione modulo dà come risultato il resto della divisione euclidea del primo numero per il secondo; in ChucK si esprime con il simbolo %
+
 
 
 
