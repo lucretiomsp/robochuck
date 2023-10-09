@@ -26,7 +26,10 @@ ChucK è un linguaggio di programmazione concorrente e fortemente sincronizzato 
 - **Per Approfondire:** Se desideri approfondire la conoscenza di ChucK, puoi leggere l'articolo CMJ (Computer Music Journal) [Articolo CMJ](https://ccrma.stanford.edu/~ge/publish/files/2015-cmj-chuck.pdf).
 
 ## Installare ChucK
-ChucK può essere utilizzato direttamente dal web browser ([ChucK Online IDE](https://chuck.stanford.edu/ide/)), come programma da terminale o con il suo editor/IDE chiamato MiniAudicle che potete trovare qui nella sua ultima release stabile ([ChucK release](https://chuck.cs.princeton.edu/release/))
+ChucK può essere utilizzato direttamente dal web browser ([ChucK Online IDE](https://chuck.stanford.edu/ide/)), come programma da terminale o con il suo editor/IDE chiamato MiniAudicle che potete trovare qui nella sua ultima release stabile ([ChucK release](https://chuck.cs.princeton.edu/release/)) .
+
+## Consulatre la guida online di ChucK
+Una esaustiva guida alla programmazione con ChucK puó essere trovata [qui]https://chuck.stanford.edu/doc/program/  .
 
 
 
