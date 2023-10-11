@@ -34,6 +34,8 @@ Una esaustiva guida alla programmazione con ChucK puó essere trovata [qui](http
 ## Estendere ChucK
 ChucK fornisce differenti [alternative](https://chuck.cs.princeton.edu/extend/) per estendere le classi, i generatori e le funzionalità della sua libreria standard. 
 
+### [Un manuale espresso per ChucK](https://archive.flossmanuals.net/chuck/ch027_arrays.html)
+
 ## Glossario
 
 - *modulo*
